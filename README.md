@@ -3,7 +3,7 @@
 ## Background
 
 The project was created as part of 18ECE40T (Machine Perception and Cognition) at SRM Institute of Science and Technology with the aim to create interactive visualizations related to the coursework.
-As part of the repo we have both the code and executable applications created by PyInstaller available on the given google drive link.
+As part of the repo we have both the code and the executable applications created by PyInstaller are available on the undermentioned google drive link.
 
 The modules can be used both as standalone executables accesible by the google drive link or by downlaoding the code and running on your local compiler.
 
@@ -45,6 +45,9 @@ Currently work on the project is halted.
 Worked on by Atanu Wadhwa, K Priya and Viswadruth Akkaraju under the Guidance of Dr. M. Susila SRMIST
 
 ## Sample Outputs
+![Alt text]https://github.com/ICB-TO/Image-Processing-simulation-modules/blob/main/Sample%20outputs/basic_ops.png
+![Alt text]https://github.com/ICB-TO/Image-Processing-simulation-modules/blob/main/Sample%20outputs/color_spaces.png
+![Alt text]https://github.com/ICB-TO/Image-Processing-simulation-modules/blob/main/Sample%20outputs/color_spaces.png
 
 
 [Executable Files Gdrive Link] https://drive.google.com/drive/folders/1sOwjyg99cvP1g4DFWtPur5Rms46AA5LK?usp=sharing
