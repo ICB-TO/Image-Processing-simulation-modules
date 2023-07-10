@@ -3,9 +3,10 @@
 ## Background
 
 The project was created as part of 18ECE40T (Machine Perception and Cognition) at SRM Institute of Science and Technology with the aim to create interactive visualizations related to the coursework.
-As part of the repo we have both the code and the executable applications created by PyInstaller are available on the undermentioned google drive link.
 
-The modules can be used both as standalone executables accesible by the google drive link or by downloading the code and running it on your local compiler.
+The executable applications created by PyInstaller are available on the undermentioned google drive link.
+
+The modules can be used both as standalone executables accesible by the google drive link or by cloning the repo.
 
 The modules are written in python and have used pysimplegui to create the GUI along with webbrowser to allow users to access the relevant theory to the modules on the net however a net connection is not required to use the modules
 Some modules (such as image Erosion and Dilation) require users to input images while other make use of openCV to capture the video stream from the users webcam. 
