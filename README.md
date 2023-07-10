@@ -45,9 +45,10 @@ Currently work on the project is halted.
 Worked on by Atanu Wadhwa, K Priya and Viswadruth Akkaraju under the Guidance of Dr. M. Susila SRMIST
 
 ## Sample Outputs
-![Alt text] (https://github.com/ICB-TO/Image-Processing-simulation-modules/blob/main/Sample%20outputs/basic_ops.png,"Basic Video Operations")
-![Alt text] (https://github.com/ICB-TO/Image-Processing-simulation-modules/blob/main/Sample%20outputs/color_spaces.png,"Colour Space Visualization")
-![Alt text] (https://github.com/ICB-TO/Image-Processing-simulation-modules/blob/main/Sample%20outputs/color_spaces.png,"Medial Axis Theorem")
+<img width="500" alt="basic_ops" src="https://github.com/ICB-TO/Image-Processing-simulation-modules/assets/55246001/f3176952-279a-4487-a26a-49154deb2fad">
+<img width="703" alt="color_spaces" src="https://github.com/ICB-TO/Image-Processing-simulation-modules/assets/55246001/7da13cd9-eaf0-4c66-9a92-293c71504433">
+<img width="989" alt="medial" src="https://github.com/ICB-TO/Image-Processing-simulation-modules/assets/55246001/82c7a248-d35c-4272-a682-1b0a433b749c">
+
  
 
 [Executable Files Gdrive Link] https://drive.google.com/drive/folders/1sOwjyg99cvP1g4DFWtPur5Rms46AA5LK?usp=sharing
