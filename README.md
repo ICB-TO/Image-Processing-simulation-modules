@@ -12,7 +12,7 @@ Some modules (such as image Erosion and Dilation) require users to input images 
 
 ## State of the Project
 
-As of the current state of the repo the following concepts have be implemented:
+Concepts that have be implemented:
 
   * Erosion and Dilation of Image
   * Background separation in image
