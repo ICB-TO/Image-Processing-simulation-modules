@@ -1,4 +1,4 @@
-# Visualizing basic concepts of Image processing
+# Visualizing the basic concepts of Image processing
 
 ## Background
 
