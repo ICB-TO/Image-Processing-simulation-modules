@@ -14,32 +14,32 @@ Some modules (such as image Erosion and Dilation) require users to input images 
 
 As of the current state of the repo the following concepts have be implemented:
 
-⋅⋅*Erosion and Dilation of Image
-⋅⋅*Background separation in image
-⋅⋅*Medial Axis Theorem 
-⋅⋅*Skeletal Point Cloud using mediapipe
-⋅⋅*Face point cloud using mediapipe
-⋅⋅*Visualizing difference between two images using heat map
-⋅⋅*Basic Implementation of Gabor Filter
-⋅⋅*Basic Transformations on Image Orientation
-⋅⋅*Visualizing color spaces
-⋅⋅*Edge Vs contour
-⋅⋅*Canny Edge detector and basic filters
-⋅⋅*Artistic Filters 
+⋅⋅* Erosion and Dilation of Image
+⋅⋅* Background separation in image
+⋅⋅* Medial Axis Theorem 
+⋅⋅* Skeletal Point Cloud using mediapipe
+⋅⋅* Face point cloud using mediapipe
+⋅⋅* Visualizing difference between two images using heat map
+⋅⋅* Basic Implementation of Gabor Filter
+⋅⋅* Basic Transformations on Image Orientation
+⋅⋅* Visualizing color spaces
+⋅⋅* Edge Vs contour
+⋅⋅* Canny Edge detector and basic filters
+⋅⋅* Artistic Filters 
 
 Currently work on the project is halted.
 
 ## Librarires used
-⋅⋅*OpenCV
-⋅⋅*PySimpleGUI
-⋅⋅*Pillow
-⋅⋅*numpy
-⋅⋅*webbrowser
-⋅⋅*Colour
-⋅⋅*mediapipe
-⋅⋅*math
-⋅⋅*Sci-Kit Image
-⋅⋅*PyInstaller
+⋅⋅* OpenCV
+⋅⋅* PySimpleGUI
+⋅⋅* Pillow
+⋅⋅* numpy
+⋅⋅* webbrowser
+⋅⋅* Colour
+⋅⋅* mediapipe
+⋅⋅* math
+⋅⋅* Sci-Kit Image
+⋅⋅* PyInstaller
 
 ## Credits 
 Worked on by Atanu Wadhwa, K Priya and Viswadruth Akkaraju under the Guidance of Dr. M. Susila SRMIST
