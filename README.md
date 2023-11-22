@@ -2,7 +2,7 @@
 
 ## Background
 
-The project was created as part of 18ECE40T (Machine Perception and Cognition) at SRM Institute of Science and Technology with the aim to create interactive visualizations related to the coursework.
+The project was created as part of 18ECE40T (Machine Perception and Cognition) at SRM Institute of Science and Technology under the Guidance of Dr. M. Susila with the aim to create interactive visualizations related to the coursework.
 
 The executable applications created by PyInstaller are available on the undermentioned google drive link.
 
