@@ -43,7 +43,7 @@ Currently work on the project is halted.
   * PyInstaller
 
 ## Credits 
-Worked on by Atanu Wadhwa, K Priya and Viswadruth Akkaraju under the Guidance of Dr. M. Susila SRMIST
+Worked on by Atanu Wadhwa, K Priya and Viswadruth Akkaraju under the Guidance of Dr. M. Susila SRM Institute of Science & Technology
 
 ## Sample Outputs
 <img width="500" alt="basic_ops" src="https://github.com/ICB-TO/Image-Processing-simulation-modules/assets/55246001/1f9d3844-281e-4fdd-9db5-d0a474808800">
